@@ -6,7 +6,7 @@ const ListRestaurants = (value) => {
 			if (element === value) {
 				const objectRest = dataRest[element]
 				objectRest.forEach(element => {
-					const cardRest = `
+					containerName.innerHTML += `
     <div class="col l3 s12 m6" data-value = "" class= "rest">
       <div class="card blue-grey darken-1">
         <div class="card-content white-text">
@@ -15,7 +15,7 @@ const ListRestaurants = (value) => {
       </div>
     </div>
 					`
-					containerName.innerHTML = cardRest + containerName.innerHTML
+					// containerName.innerHTML = cardRest + containerName.innerHTML
 				});
 			}
 		}
