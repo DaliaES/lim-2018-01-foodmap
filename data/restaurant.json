@@ -1,0 +1,143 @@
+{
+	"Coreana": [
+		{
+			"name":"Hank Kook Kwan",
+			"direccion":"Av San Luis 2256",
+			"horario":"10:00-23:00"
+		},
+		{
+			"name":"Dae Jang Geum",
+			"direccion":"Av San Borja Sur 279",
+			"horario":"12:00-22:00"
+		},
+		{
+			"name":"Nodaji",
+			"direccion":"Av Aviación 3257",
+			"horario":"12:00--22:00"
+		}
+	],
+	"Japonesa": [
+		{
+			"name":"Edo Sushi Bar",
+			"direccion":"Av San Borja Sur 663",
+			"horario":"12:30-15:30, 19:00-23:00"
+		},
+		{
+			"name":"Naruto Japanese Food",
+			"direccion":"Av Aviación 2982",
+			"horario":"12:30-14:00, 19:00-23:00"
+		},
+		{
+			"name":"Asakusa Sushi Bar-Restaurante",
+			"direccion":"Av Javier Prado Este 2994",
+			"horario":"12:30--00:00"
+		},
+		{
+			"name":"Izakaya",
+			"direccion":"Av Aviación 2704",
+			"horario":"12:00-15:30, 18:30-23:00"
+		},
+		{
+			"name":"Omatsu",
+			"direccion":"Av San Borja Sur 610",
+			"horario":"12:30-15:00, 19:00-22:30"
+		},
+		{
+			"name":"Oceánika",
+			"direccion":"Av Paseo del Bosque 547",
+			"horario":"12:30-23:00"
+		}
+	],
+	"Peruana":[
+		{
+			"name":"Moche",
+			"direccion":"Av. San Luis 2203",
+			"cierre":"11:30-18:00, 19:00-23:00"
+		},
+		{
+			"name":"Quimera Restaurante",
+			"direccion":"Av. Guardia Civil 727",
+			"cierre":"6:30-23:00"
+		},
+		{
+			"name":"José Antonio",
+			"direccion":"Av. Trinidad 320",
+			"cierre":"12:30-16:30, 17:30-23:00"
+		},
+		{
+			"name":"Dallas",
+			"direccion":"Av. Del Parque Norte 988",
+			"cierre":"12:00-00:00"
+		},
+		{
+			"name":"Aromas Peruanos",
+			"direccion":"Av. Guardia Civil 856",
+			"cierre":"12:30-23:00"
+		},
+		{
+			"name":"Los Balcones de Arequipa",
+			"direccion":"Av. Circunvalación 2550",
+			"cierre":"09:00-18:00"
+		},
+		{
+			"name":"El Aguajal",
+			"direccion":"Av. San Borja Norte 886",
+			"cierre":"11:00-22:00"
+		},
+		{
+			"name":"La Bistecca",
+			"direccion":"Av. Primavera 545",
+			"cierre":"12:30-16:00,19:30-23:00"
+		}
+	],
+	"Marina":[
+		{
+			"name":"Pescados Capitales",
+			"direccion":"Av. Primavera 1067",
+			"cierre":"12:30-23:00"
+		},
+		{
+			"name":"Punto Azul",
+			"direccion":"Av. Joaquin de la Madrid 253",
+			"cierre":"11:00-16:00"
+		},
+		{
+			"name":"La Paila Marina",
+			"direccion":"Av. Aviación 2917",
+			"cierre":"10:00-17:00"
+		},
+		{
+			"name":"Punto Marisko",
+			"direccion":"Av. San Borja Sur 700",
+			"cierre":"11:00-17:30"
+		}	
+
+	],
+	"Comida Rápida":[
+		{
+			"name":"Antica Pizzeria",
+			"direccion":"Av. Primavera 335",
+			"cierre":"12:30-00:00"
+		},
+		{
+			"name":"Villa Chicken",
+			"direccion":"Av. Aviación 2752",
+			"cierre":"12:00-00:00"
+		},
+		{
+			"name":"Don Tito",
+			"direccion":"Av. Aviación 3096",
+			"cierre":"12:00-00:00"
+		},
+		{
+			"name":"La Romana",
+			"direccion":"Av. San Borja Sur 241",
+			"cierre":"12:00-00:00"
+		},
+		{
+			"name":"KFC",
+			"direccion":"Av. Aviación 2798",
+			"cierre":"10:00-11:00"
+		}
+	]
+}

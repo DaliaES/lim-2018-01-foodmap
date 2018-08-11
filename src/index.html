@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Foodmap</title>
+	<!--Import Google Icon Font-->
+	<!-- <META HTTP-EQUIV="REFRESH" CONTENT="2;URL=foodmap.html">  -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<!--Import materialize.css-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="../src/static/splash.css" />
+	<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+
+<body class="body-splash">
+
+	<div id=”loader-wrapper”>
+		<div id=”loader”></div>
+
+		<div class=" row splash #1a237e yellow" onload="splash(3000)" id="splashscreen">
+			<div class="col s12 m12 l12">
+				<div class="preloader col l4 push-l4 m4 push-m4 s4 push-s4">
+					<h1 class="indigo-text center ">Foodmap</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script>
+		window.onload = () => {
+			window.setTimeout(() => {
+				window.location = "foodmap.html";
+			}, 2000);
+		}
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+	<script type="text/js" src="../src/static/index.js"></script>
+	<script type="text/js" src="../src/static/main.js"></script>
+</body>
+
+</html>

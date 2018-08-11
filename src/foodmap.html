@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+
+</head>
+
+<body>
+	<div class="row">
+		<div class="section">imgen mapa</div>
+		<div class="divider"></div>
+		<div>
+			<div class="input-field col s6">
+				<input placeholder="Buscar" id="first_name" type="text" class="validate">
+			</div>
+			<div class=" input-field col s6">
+				<select class="browser-default right" id="select-type">
+					<option value="" disabled selected>Elige un tipo de comida</option>
+					<option value="Coreana">Coreana</option>
+					<option value="Japonesa">Japonesa</option>
+					<option value="Peruana">Peruana</option>
+					<option value="Marina">Marina</option>
+					<option value="Comida Rápida">Comida Rápida</option>
+				</select>
+			</div>
+		</div>
+		<div class="row" id="container-name" data-id=""></div>
+	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+	<script src="xhr.js"></script>
+	<script src="main.js"></script>
+</body>
+
+</html>

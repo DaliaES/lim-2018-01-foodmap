@@ -1,0 +1,10 @@
+.body-splash{
+	margin: 0;
+	overflow-y: hidden;
+}
+.splash{
+	min-height: 100vh;
+}
+.preloader{
+	margin-top:20%;
+}
