@@ -4,15 +4,15 @@ Este proyecto tiene como objetivo crear una aplicación web que liste los restau
 
 ## Desarrollo
 
-Para la vista de esta aplicación se desarrollo una vista splash como pagina de inicio 
+Para la vista de esta aplicación se desarrollo una vista splash como pagina de inicio.
 
-<p align = "center"><img src="https://preview.ibb.co/dHTd1U/foodmap_vista.png"></p>
+<p align = "center"><img src="https://preview.ibb.co/jTP1MU/foodmap_splash.png" alt="foodmap_splash" border="0"></p>
 
-Luego esta vista redirecciona a iterfaz principal, que al filtrar mostrará la lista de restaurantes según la selección
+Luego esta vista redirecciona a iterfaz principal, que al filtrar mostrará la lista de restaurantes según la selección.
 
 <p align = "center"><img src="https://preview.ibb.co/dHTd1U/foodmap_vista.png" alt="foodmap_vista" border="0"></p>
 
-Por último se le agrego un modal para que muestre la informacion de cada restaurante´
+Por último se le agrego un modal para que muestre la informacion de cada restaurante.
 
 <p align = "center"><img src="https://preview.ibb.co/mTKXvp/foodmap_modal.png" alt="foodmap_modal" border="0"></p>
 
