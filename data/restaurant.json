@@ -52,64 +52,64 @@
 		{
 			"name":"Moche",
 			"direccion":"Av. San Luis 2203",
-			"cierre":"11:30-18:00, 19:00-23:00"
+			"horario":"11:30-18:00, 19:00-23:00"
 		},
 		{
 			"name":"Quimera Restaurante",
 			"direccion":"Av. Guardia Civil 727",
-			"cierre":"6:30-23:00"
+			"horario":"6:30-23:00"
 		},
 		{
 			"name":"José Antonio",
 			"direccion":"Av. Trinidad 320",
-			"cierre":"12:30-16:30, 17:30-23:00"
+			"horario":"12:30-16:30, 17:30-23:00"
 		},
 		{
 			"name":"Dallas",
 			"direccion":"Av. Del Parque Norte 988",
-			"cierre":"12:00-00:00"
+			"horario":"12:00-00:00"
 		},
 		{
 			"name":"Aromas Peruanos",
 			"direccion":"Av. Guardia Civil 856",
-			"cierre":"12:30-23:00"
+			"horario":"12:30-23:00"
 		},
 		{
 			"name":"Los Balcones de Arequipa",
 			"direccion":"Av. Circunvalación 2550",
-			"cierre":"09:00-18:00"
+			"horario":"09:00-18:00"
 		},
 		{
 			"name":"El Aguajal",
 			"direccion":"Av. San Borja Norte 886",
-			"cierre":"11:00-22:00"
+			"horario":"11:00-22:00"
 		},
 		{
 			"name":"La Bistecca",
 			"direccion":"Av. Primavera 545",
-			"cierre":"12:30-16:00,19:30-23:00"
+			"horario":"12:30-16:00,19:30-23:00"
 		}
 	],
 	"Marina":[
 		{
 			"name":"Pescados Capitales",
 			"direccion":"Av. Primavera 1067",
-			"cierre":"12:30-23:00"
+			"horario":"12:30-23:00"
 		},
 		{
 			"name":"Punto Azul",
 			"direccion":"Av. Joaquin de la Madrid 253",
-			"cierre":"11:00-16:00"
+			"horario":"11:00-16:00"
 		},
 		{
 			"name":"La Paila Marina",
 			"direccion":"Av. Aviación 2917",
-			"cierre":"10:00-17:00"
+			"horario":"10:00-17:00"
 		},
 		{
 			"name":"Punto Marisko",
 			"direccion":"Av. San Borja Sur 700",
-			"cierre":"11:00-17:30"
+			"horario":"11:00-17:30"
 		}	
 
 	],
@@ -117,27 +117,27 @@
 		{
 			"name":"Antica Pizzeria",
 			"direccion":"Av. Primavera 335",
-			"cierre":"12:30-00:00"
+			"horario":"12:30-00:00"
 		},
 		{
 			"name":"Villa Chicken",
 			"direccion":"Av. Aviación 2752",
-			"cierre":"12:00-00:00"
+			"horario":"12:00-00:00"
 		},
 		{
 			"name":"Don Tito",
 			"direccion":"Av. Aviación 3096",
-			"cierre":"12:00-00:00"
+			"horario":"12:00-00:00"
 		},
 		{
 			"name":"La Romana",
 			"direccion":"Av. San Borja Sur 241",
-			"cierre":"12:00-00:00"
+			"horario":"12:00-00:00"
 		},
 		{
 			"name":"KFC",
 			"direccion":"Av. Aviación 2798",
-			"cierre":"10:00-11:00"
+			"horario":"10:00-11:00"
 		}
 	]
 }
