@@ -1,27 +1,23 @@
 #  F O O D M A P
 
-Crea una web-app que a través de un input pueda filtrar los restaurantes
-que se encuentran cerca de ti *(Tú decides la estructura que tendrán tus datos,
-puedes crear una lista de restaurantes en un arreglo, en un objeto, consumir una API, etc. Lo importante es que el contenido debe ser dinámico y no estático y el diseño es totalmente libre)*.
+Este proyecto tiene como objetivo crear una aplicación web que liste los restaurantes  de una zona mediante un filtro, en este caso nos enfocaremos en el distrito de San Borja.
 
-#### Flujo de la aplicación.
+## Desarrollo
 
-Vista splash con duración de 2 segundos que redirecciona a tu vista
-principal.
-![Splash](https://github.com/AnaSalazar/curricula-js/blob/04-social-network/04-social-network/02-jquery/08-code-challenges/foodmap/splash.jpg?raw=true)
+Para la vista de esta aplicación se desarrollo una vista splash como pagina de inicio 
 
-En la vista principal se muestran todos los restaurantes "cerca de ti" junto
-con el input para filtrar tu elección *(Los criterios de filtrado son decisión
-tuya, puede ser por tipo de comida, costos, orden alfabético, etc.)*.
-![vista principal](https://github.com/AnaSalazar/curricula-js/blob/04-social-network/04-social-network/02-jquery/08-code-challenges/foodmap/2.jpg?raw=true)
+<p align = "center"><img src="https://preview.ibb.co/dHTd1U/foodmap_vista.png"></p>
 
-Ya que se hizo la elección del filtro deben mostrarse únicamente aquellos
-restaurantes que cumplan con la condición.
-![vista filtrado](https://github.com/AnaSalazar/curricula-js/blob/04-social-network/04-social-network/02-jquery/08-code-challenges/foodmap/3.jpg?raw=true)
+Luego esta vista redirecciona a iterfaz principal, que al filtrar mostrará la lista de restaurantes según la selección
 
-Al seleccionar alguno de los restaurantes, deberá mostrarse la información de
-este a través de un modal.
-![modal imagen](https://github.com/AnaSalazar/curricula-js/blob/04-social-network/04-social-network/02-jquery/08-code-challenges/foodmap/5.jpg?raw=true)
+<p align = "center"><img src="https://preview.ibb.co/dHTd1U/foodmap_vista.png" alt="foodmap_vista" border="0"></p>
 
-Una vez cerrado el modal debe volver a la vista principal.
-![ultima vista](https://github.com/AnaSalazar/curricula-js/blob/04-social-network/04-social-network/02-jquery/08-code-challenges/foodmap/6.jpg?raw=true)
+Por último se le agrego un modal para que muestre la informacion de cada restaurante´
+
+<p align = "center"><img src="https://preview.ibb.co/mTKXvp/foodmap_modal.png" alt="foodmap_modal" border="0"></p>
+
+## Aplicación
+
+El usuario podrá acceder a la interfaz ingresando a la siguiente [PAGINA](https://daliaes.github.io/lim-2018-01-foodmap/src/).
+Cuando acceda a la vista principal, deberá seleccionar un tipo de comida y se le mostarará las opciones, al hacer click en alguna le mostrará un modal.
+
